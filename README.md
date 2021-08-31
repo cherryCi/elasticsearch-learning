@@ -24,6 +24,7 @@
 ### 11.验证启动成功：1. http://localhost:9200/  2.http://localhost:9200/_cat/health?v
 
    ![image](https://user-images.githubusercontent.com/20039839/131478504-80b50649-d4ea-44a7-a438-e295a7b3ded4.png)
-![Uploading image.png…]()
+  ![image](https://user-images.githubusercontent.com/20039839/131478700-04b69ac5-9c46-4049-8be8-1c8285f5edc5.png)
+
 
     
