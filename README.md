@@ -1,4 +1,4 @@
-# elasticsearch-learning
+# elasticsearch 源码环境搭建
 ## es 学习笔记
 源码搭建步骤
 ### 1.git clone git@github.com:elastic/elasticsearch.git
@@ -22,5 +22,8 @@
     4.-Dlog4j2.disable.jmx=true
 ### 10.至此可以启动起来
 ### 11.验证启动成功：1. http://localhost:9200/  2.http://localhost:9200/_cat/health?v
-   
+
+   ![image](https://user-images.githubusercontent.com/20039839/131478504-80b50649-d4ea-44a7-a438-e295a7b3ded4.png)
+![Uploading image.png…]()
+
     
