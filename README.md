@@ -1,9 +1,9 @@
 # elasticsearch-learning
 ## es 学习笔记
 源码搭建步骤
-1.git clone git@github.com:elastic/elasticsearch.git
-2.git tag
-3.git checkout v6.3.2
+### 1.git clone git@github.com:elastic/elasticsearch.git
+### 2.git tag
+### 3.git checkout v6.3.2
 4.在进行clone 代码之前需要核对当前es 需要的gradle 版本，jdk版本，版本要求比较严格的，对应不上去会出现错误
 5.切换到elasticsearch 目录下，执行 ./gradlew idea
 6.导入到idea 中，并且更改build tools->gradle 的配置
